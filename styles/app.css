@@ -1,3 +1,13 @@
 body {
     background-color: lightgray;
+    list-style-type: none;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 16px;
 }
